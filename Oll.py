@@ -127,8 +127,7 @@ def ___follow___():
         web = datetime.datetime.now()
         ___waktu___ = web.strftime("%H:%M:%S/%d-%m-%Y")
         ___hour___ = web.hour
-        if 06 <= ___hour___ < 11:
-            ___ucapkan___ = ('Selamat Pagi ðŸ’™')
+  
         elif 11 <= ___hour___ < 15:
             ___ucapkan___ = ('Selamat Siang ðŸ’›')
         elif 15 <= ___hour___ < 18:
