@@ -8,7 +8,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 """
-Kalo Mau Ubah Bot Nya Izin Dulu ! 
+
 
 Faham ?
 """
